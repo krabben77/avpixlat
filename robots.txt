@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://krabben77.github.io/avpixlat/sitemap.xml
+Sitemap: https://avpixlat.xyz/sitemap.xml
