@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Avpixlat",
+    "description": "",
+    "home_page_url": "https://krabben77.github.io/avpixlat",
+    "feed_url": "https://krabben77.github.io/avpixlat/feed.json",
+    "user_comment": "",
+    "icon": "https://krabben77.github.io/avpixlat/media/website/shutterstock_188180441-e1544707293195.avif",
+    "author": {
+        "name": "Redaktören"
+    },
+    "items": [
+    ]
+}
